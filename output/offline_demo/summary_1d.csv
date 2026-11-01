@@ -1,0 +1,2 @@
+﻿instId,bar,start,end,candles,first_close,last_close,period_return_pct,high,low,annualized_vol_pct,max_drawdown_pct,up_bars_pct,last_vs_sma20_pct,avg_quote_volume
+BTC-USDT,1D,2026-01-01 08:00,2026-07-19 08:00,200,89424.3,71787.6,-19.72,92717.1,52496.6,48.53,-42.46,48.2,6.3,646115825.0
